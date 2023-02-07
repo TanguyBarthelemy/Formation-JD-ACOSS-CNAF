@@ -1,5 +1,5 @@
 # Formation JDemetra+ ACOSS-CNAF 2023
-Support pour la formation désaisonalisation avec JD+ ACOSS-CNAF (09-10/02/2023)
+Support pour la formation désaisonalisation avec JD+ ACOSS-CNAF (09-10/02/23)
 
 ## Présentation et installation
 
