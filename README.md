@@ -4,6 +4,7 @@ Support pour la formation désaisonalisation avec JD+ ACOSS-CNAF (09-10/02/23)
 ## Présentation et installation
 
 Voici les supports, codes et data utilisés pour la formation. Pour obtenir ces documents :
+
     - Soit vous les téléchargez avec en .zip avec le bouton `Code` puis les dézippez dans un dossier sur votre ordinateur
 ![plot](https://github.com/TanguyBarthelemy/Formation-JD-ACOSS-CNAF/blob/main/img/code_button.png?raw=true)
 - Soit vous pouvez directement cloner le répertoire entier avec `git clone https://github.com/TanguyBarthelemy/Formation-JD-ACOSS-CNAF.git` *via* Rstudio ou la console Git par exemple. 
