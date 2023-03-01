@@ -1,4 +1,4 @@
-# JDCruncher (to be installed from github.com/InseeFR)
+# JDCruncheR (to be installed from github.com/InseeFR)
 library(JDCruncheR)
 library(XLConnect)
 library(xlsx)
